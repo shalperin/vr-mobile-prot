@@ -3,8 +3,7 @@
 
 ## Sam Halperin
 
-**A research proposal submitted in partial fulfillment of CISD 770 at Nova Southeastern University.
-12/12/2014** 
+**12/12/2014** 
 
 
 
@@ -12,6 +11,10 @@
 Virtual reality has been used to inform application context and the ecological validity of ubiquitous, location-based, mobile applications during construction. Proposed here is the development and evaluation of new tooling for creating simple, low-cost virtual reality simulations of smartphone applications.  Where previous solutions have been one-off and proprietary, the goal of this research is to create and evaluate a reusable, low-cost general software solution for use in both usability engineering.  
 
 Virtual reality is a complex field involving the interplay of visual, audio, vestibular, proprioceptive, and tactile systems, with computational issues such as rendering speed, display resolution, and positional and orientation tracking capabilities.  How these systems can be used to effectively maintain presence, the sense of being in one place while being physically located in another, and how that presence can be leveraged to study the usability of smartphone applications will be explored.
+
+
+![](figures/fig9.png)
+*Additional figures at end of paper.*
 
 
 ### 1 Problem Statement
@@ -166,6 +169,26 @@ Use the open source OpenTreeMap Android application as a case study to evaluate 
 
 ### 6 Conclusion
 A virtual reality tool for presenting mobile application prototypes was discussed.  The aim of the study is to focus on creating reusable tooling, and its evaluation in terms of simulator validity and contribution to the usability engineering processes.  Unity Game Engine was proposed as a foundation for this development.  The design of a second generation of an existing mobile location-based application should be used as a case study.
+
+
+### Figures
+
+![](figures/fig1.png)
+![](figures/fig2.png)
+![](figures/fig3.png)
+![](figures/fig4.png)
+![](figures/fig5.png)
+![](figures/fig6.png)
+![](figures/fig7a.png)
+![](figures/fig7b.png)
+![](figures/fig8.png)
+![](figures/fig9.png)
+![](figures/fig10.png)
+![](figures/fig11a.png)
+![](figures/fig11b.png)
+![](figures/fig12.png)
+
+
 
 
 
